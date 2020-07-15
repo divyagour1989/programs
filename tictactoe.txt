@@ -9,3 +9,7 @@ poe
 sik
 sac
 soe
+
+dik
+dac
+doe
