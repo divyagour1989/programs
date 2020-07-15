@@ -5,3 +5,7 @@ toe
 pik
 pac
 poe
+
+sik
+sac
+soe
